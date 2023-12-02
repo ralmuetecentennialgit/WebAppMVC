@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\00 Centennial\01 Fall 2023\02 COMP367 - DevOps\04 Lab4\WebAppMVC\WebAppMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/00 Centennial/01 Fall 2023/02 COMP367 - DevOps/04 Lab4/WebAppMVC/WebAppMVC/Views/HelloWorld/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/00 Centennial/01 Fall 2023/02 COMP367 - DevOps/04 Lab4/WebAppMVC/WebAppMVC/Views/HelloWorld/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxXZWxjb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/00 Centennial/01 Fall 2023/02 COMP367 - DevOps/04 Lab4/WebAppMVC/WebAppMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
